@@ -1,5 +1,5 @@
 # lsps
-Public repository for the Living Systems Process Suite (LSPS) project.
+Public repository for the **Living Systems Process Suite** (**LSPS**) project.
 
 Download and learn LSPS from the links below. You can enter your issues to the [public issue tracking](https://github.com/WhitesteinTechnologies/lsps/issues).
 
