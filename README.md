@@ -7,4 +7,4 @@ Download and learn LSPS from the links below. You can enter your issues to the [
 Further resources:
 * [LSPS Download](https://lsps.whitestein.com/)
 * [LSPS Documentation](https://lsps-docs.whitestein.com/)
-* [Whitestein Technologies company web page](https://www.whitestein.com/)
+* [Whitestein Technologies company page](https://www.whitestein.com/)
